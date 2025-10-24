@@ -20,7 +20,7 @@ body {
   
   /* 🌙 Tema Escuro */
   body.escuro {
-    background-color: #121212;
+    background-color: rgb(2, 2, 59);
     color: #f2f2f2;
   }
   
